@@ -1,0 +1,8 @@
+ReadfromFile\Readfromjson.class
+org\example\Main.class
+pageFiles\Login_Magneto.class
+seleniumActions\SeleniumActions.class
+pageFiles\NewAddress.class
+pageFiles\HomePage.class
+shippingAddress\ShipingAddressPage.class
+pageFiles\BagsPrice.class
