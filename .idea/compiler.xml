@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Practice2023" />
+        <module name="Evaluation280223" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

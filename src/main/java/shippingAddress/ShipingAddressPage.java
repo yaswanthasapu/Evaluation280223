@@ -101,7 +101,7 @@ WebElement ordernum;
         System.out.println("Your order number : " + checkout.getText());
         checkout.click();
         Assert.assertTrue(ordernum.isDisplayed());
-        System.out.println(ordernum.getText());
+
 
     }
 
